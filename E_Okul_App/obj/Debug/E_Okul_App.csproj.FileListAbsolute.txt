@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\bin\Debug\E_Okul_App.exe.config
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\bin\Debug\E_Okul_App.exe
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\bin\Debug\E_Okul_App.pdb
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\obj\Debug\E_Okul_App.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\obj\Debug\E_Okul_App.Form1.resources
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\obj\Debug\E_Okul_App.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\obj\Debug\E_Okul_App.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\obj\Debug\E_Okul_App.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\obj\Debug\E_Okul_App.exe
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\obj\Debug\E_Okul_App.pdb
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\obj\Debug\E_Okul_App.Form_Ogrenci_Notlar.resources
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\obj\Debug\E_Okul_App.Form_Ogretmen.resources
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\obj\Debug\E_Okul_App.FormKulup.resources
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\obj\Debug\E_Okul_App.FormDersler.resources
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\obj\Debug\E_Okul_App.FormOgrenci.resources
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\obj\Debug\E_Okul_App.FormSınavNotlar.resources
+C:\Users\ASUS\Desktop\Visual Studio Öğrenim\dersler\E_Okul_App\obj\Debug\E_Okul_App.FormOgretmenler.resources

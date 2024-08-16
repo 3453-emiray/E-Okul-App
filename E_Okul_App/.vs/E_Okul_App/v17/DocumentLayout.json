@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\forms\u0131navnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:forms\u0131navnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\forms\u0131navnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:forms\u0131navnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\formogretmenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:formogretmenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\form_ogrenci_notlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:form_ogrenci_notlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|c:\\users\\asus\\desktop\\visual studio \u00F6\u011Frenim\\dersler\\e_okul_app\\formogretmenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:formogretmenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\formogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:formogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\form_ogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:form_ogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\form_ogrenci_notlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:form_ogrenci_notlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\formogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:formogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\form_ogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:form_ogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\form_ogretmen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:form_ogretmen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\formkulup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:formkulup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\formdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:formdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\formdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:formdersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\formkulup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:formkulup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\forms\u0131navnotlar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:forms\u0131navnotlar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\formogrenci.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:formogrenci.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\dataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D3ACB3-E2D5-4A10-BE3D-1C2F80D5B85C}|E_Okul_App.csproj|solutionrelative:dataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 308,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormOgretmenler.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormOgretmenler.cs",
+              "RelativeDocumentMoniker": "FormOgretmenler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormOgretmenler.cs",
+              "RelativeToolTip": "FormOgretmenler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwCoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:07:04.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormS\u0131navNotlar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormS\u0131navNotlar.cs",
+              "RelativeDocumentMoniker": "FormS\u0131navNotlar.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormS\u0131navNotlar.cs [Design]",
+              "RelativeToolTip": "FormS\u0131navNotlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:23:35.329Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormS\u0131navNotlar.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormS\u0131navNotlar.cs",
+              "RelativeDocumentMoniker": "FormS\u0131navNotlar.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormS\u0131navNotlar.cs",
+              "RelativeToolTip": "FormS\u0131navNotlar.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:44:38.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_Ogrenci_Notlar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\Form_Ogrenci_Notlar.cs",
+              "RelativeDocumentMoniker": "Form_Ogrenci_Notlar.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\Form_Ogrenci_Notlar.cs [Design]",
+              "RelativeToolTip": "Form_Ogrenci_Notlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:14:22.287Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "DataSet1.xsd",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\DataSet1.xsd",
+              "RelativeToolTip": "DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-08-14T06:25:57.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form_Ogretmen.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\Form_Ogretmen.cs",
+              "RelativeDocumentMoniker": "Form_Ogretmen.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\Form_Ogretmen.cs",
+              "RelativeToolTip": "Form_Ogretmen.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswDwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:17:17.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form_Ogrenci_Notlar.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\Form_Ogrenci_Notlar.cs",
+              "RelativeDocumentMoniker": "Form_Ogrenci_Notlar.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\Form_Ogrenci_Notlar.cs",
+              "RelativeToolTip": "Form_Ogrenci_Notlar.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAewB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:15:29.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormOgrenci.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormOgrenci.cs",
+              "RelativeDocumentMoniker": "FormOgrenci.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormOgrenci.cs [Design]",
+              "RelativeToolTip": "FormOgrenci.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:11:59.743Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormOgretmenler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormOgretmenler.cs",
+              "RelativeDocumentMoniker": "FormOgretmenler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormOgretmenler.cs [Design]",
+              "RelativeToolTip": "FormOgretmenler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:03:55.923Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormOgrenci.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormOgrenci.cs",
+              "RelativeDocumentMoniker": "FormOgrenci.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormOgrenci.cs",
+              "RelativeToolTip": "FormOgrenci.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:44:37.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form_Ogretmen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\Form_Ogretmen.cs",
+              "RelativeDocumentMoniker": "Form_Ogretmen.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\Form_Ogretmen.cs [Design]",
+              "RelativeToolTip": "Form_Ogretmen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:03:28.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form_Ogretmen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\Form_Ogretmen.Designer.cs",
+              "RelativeDocumentMoniker": "Form_Ogretmen.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\Form_Ogretmen.Designer.cs",
+              "RelativeToolTip": "Form_Ogretmen.Designer.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAMwH8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:20:48.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormKulup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormKulup.cs",
+              "RelativeDocumentMoniker": "FormKulup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormKulup.cs [Design]",
+              "RelativeToolTip": "FormKulup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:32:22.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:13:28.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormDersler.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormDersler.cs",
+              "RelativeDocumentMoniker": "FormDersler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormDersler.cs",
+              "RelativeToolTip": "FormDersler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:33:06.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:23:44.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormDersler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormDersler.cs",
+              "RelativeDocumentMoniker": "FormDersler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormDersler.cs [Design]",
+              "RelativeToolTip": "FormDersler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:05:47.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormKulup.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormKulup.cs",
+              "RelativeDocumentMoniker": "FormKulup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormKulup.cs",
+              "RelativeToolTip": "FormKulup.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:58:52.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormS\u0131navNotlar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormS\u0131navNotlar.Designer.cs",
+              "RelativeDocumentMoniker": "FormS\u0131navNotlar.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormS\u0131navNotlar.Designer.cs",
+              "RelativeToolTip": "FormS\u0131navNotlar.Designer.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAMwIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:18:13.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormOgrenci.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormOgrenci.Designer.cs",
+              "RelativeDocumentMoniker": "FormOgrenci.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\FormOgrenci.Designer.cs",
+              "RelativeToolTip": "FormOgrenci.Designer.cs",
+              "ViewState": "AQIAAD0BAAAAAAAAAAAMwEsBAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:04:12.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataSet1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\DataSet1.Designer.cs",
+              "RelativeDocumentMoniker": "DataSet1.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Visual Studio \u00D6\u011Frenim\\dersler\\E_Okul_App\\DataSet1.Designer.cs",
+              "RelativeToolTip": "DataSet1.Designer.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAgwGYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:43:11.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
